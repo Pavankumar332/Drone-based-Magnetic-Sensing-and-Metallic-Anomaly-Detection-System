@@ -35,9 +35,6 @@ The system leverages:
 ### Parameters Measured:
 - Magnetic Flux Density (B)
 - Magnetic Field Intensity (H)
-- Length and Permeability of metals using:
-  - \( H = \frac{I}{l} \) (A/m) 
-  - \( \mu = \frac{B}{H} \) (Wb/Am)
 
 ---
 
